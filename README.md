@@ -1,5 +1,4 @@
-<img src="./logo-wolt.png />
-
+<img src="./logo-wolt.png" />
 # city-health
 
 This code provides a delivery distance calculation mechanism considering various factors such as order volume, courier availability, and weather conditions. The primary goal is to dynamically adjust the delivery radius based on specific conditions, optimizing the delivery process.
