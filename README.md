@@ -1,5 +1,3 @@
-<img src="./logo-wolt.png" />
-
 # city-health
 
 This code provides a delivery distance calculation mechanism considering various factors such as order volume, courier availability, and weather conditions. The primary goal is to dynamically adjust the delivery radius based on specific conditions, optimizing the delivery process.
@@ -68,3 +66,8 @@ pip install requests
 The weather API key should be replaced with a valid one from Deutscher Wetterdienst for accurate weather data retrieval.
 City-specific parameters may need adjustments based on real-world data and optimization requirements.
 Feel free to customize the code and parameters to suit specific use cases and enhance the delivery distance optimization process.
+
+## Author
+David Manning
+
+
