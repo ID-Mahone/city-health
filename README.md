@@ -1,6 +1,6 @@
 # city-health
 
-This code is still under development. The project provides a delivery distance calculation mechanism considering various factors such as order volume, courier availability, and weather conditions. The primary goal is to dynamically adjust the delivery radius based on specific conditions, optimizing the delivery process.
+The project provides a delivery distance calculation mechanism considering various factors such as order volume, courier availability, and weather conditions. The primary goal is to dynamically adjust the delivery radius based on specific conditions, optimizing the delivery process.
 
 ## Features
 
